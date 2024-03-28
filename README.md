@@ -25,7 +25,7 @@ You are required to model the demand for shared bikes with the available indepen
 
 ![alt text](https://user-images.githubusercontent.com/94171996/229470317-1fa462ee-f089-41e1-9731-0fdf98e9f85c.png)
 
-<br/>
+
 Detailed attribute info [here](https://github.com/arijits148/bike_sharing_case_study/edit/main/Readme.txt) .
 
 - The graph clearly shows the qualitative distributions of the data, now if the model suggests the important predictors, using these graphs we can be more confident about the predictions of the model.
