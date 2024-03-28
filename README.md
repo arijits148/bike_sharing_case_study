@@ -38,7 +38,7 @@ Detailed attribute info [here](https://github.com/arijits148/bike_sharing_case_s
 - The count of users is less during the holidays
 - From the "Workingday" boxplot we can see that maximum bookings happening between 4000 and 6000. There is not much of difference in booking whether its working day or not.
 
-<br/>
+
 ## Recommendation
 - The months - Jul , Sep should be considered by the company as they have a higher demand as compared to other months.
 - With an increase in temperature the demand also increases, hence it should keep track of the weather conditions.
