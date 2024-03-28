@@ -2,7 +2,7 @@
 
 <b>Built a linear regression model for the prediction of demand for shared bikes.</b>
 
-<br/>
+
 ![alt text](https://i.ytimg.com/vi/DV1SPdMVf8Y/maxresdefault.jpg)
 
 ## Problem Statement:
